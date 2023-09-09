@@ -1,4 +1,4 @@
-# CodeClauseinternship_road_lane_detection 
+# CodeClauseinternship_Road_Lane_Detection 
 -->This project focuses on utilizing machine learning techniques to detect and identify lanes on roadways, a fundamental task in autonomous driving systems. We employ Python and Jupyter Notebook to develop and train our lane detection model. The dataset for this project is sourced from Kaggle. 
 
 -->In this project, we explore the world of computer vision and machine learning to develop a model capable of detecting and identifying lanes on roadways. Lane detection is a crucial task in autonomous driving systems and advanced driver assistance systems (ADAS). The project is implemented using Python and the Jupyter Notebook environment.
